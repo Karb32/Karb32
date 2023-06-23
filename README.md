@@ -1,14 +1,3 @@
-## Contact:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-072ACB?style=for-the-badge&logo=LinkedIn&logoColor=010101)](https://www.linkedin.com/in/ramankavalchuk32/)
-[![Telegram](https://img.shields.io/badge/-Telegram-072ACB?style=for-the-badge&logo=Telegram&logoColor=010101)](https://t.me/Karb32/)
-
-## <img src = "https://cdn-icons-png.flaticon.com/512/6171/6171939.png" width="30" height="30"/> Soft skills:
-- Communication
-- Teamwork
-- Result-oriented 
-- Attentive to details
-- Fast leaner
 
 ## :wrench: Technologies & Tools:
 
